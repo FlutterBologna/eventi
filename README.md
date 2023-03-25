@@ -1,4 +1,4 @@
-# eventi
+# Eventi
 
 - Inserisci [qui](https://github.com/FlutterBologna/eventi/issues/new) le tua proposte per dei talk che ti piacerebbe ascoltare o presentare
 - Non è necessario che tu sia lo speaker per poter proporre un argomento
