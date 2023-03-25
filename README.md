@@ -7,3 +7,7 @@
 - Se hai dubbi o suggerimenti su una delle proposte, aggiungi un commento
 - Useremo le label verranno usate per indicare lo stato delle proposte (es: "proposta", "programmato", "svolto", "speaker cercasi", ...).
 - Per ogni evento sarà creata una cartella con il materiale (slide, codice, ...)
+
+# Classifica
+
+- Lista proposte ordinata per numero di voti: [qui](https://github.com/FlutterBologna/eventi/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
